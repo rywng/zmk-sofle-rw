@@ -54,7 +54,7 @@ layers:
   - {t: /, s: '?'}
   - $$mdi:apple-keyboard-shift$$
   - HOME
-  - $$mdi:apple-keyboard-caps$$
+  - $$mdi:apple-keyboard-option$$
   - $$mdi:apple-keyboard-option$$
   - $$mdi:apple-keyboard-command$$
   - $$mdi:keyboard-space$$
