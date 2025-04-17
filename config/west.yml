@@ -14,7 +14,7 @@ manifest:
       revision: refactor
     - name: nice-view-peripheral-animation
       remote: rywng
-      revision: main 
+      revision: devel
     - name: zmk
       remote: zmkfirmware
       revision: main
