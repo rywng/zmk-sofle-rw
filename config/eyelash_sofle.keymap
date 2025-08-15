@@ -72,11 +72,11 @@
 
         settings {
             bindings = <
-&trans      &kp F11      &kp F12     &trans  &trans  &trans    &rgb_ug RGB_SAI  &bt BT_NXT       &out OUT_TOG     &ext_power EP_TOG  &trans           &kp MINUS    &kp EQUAL
-&trans      &trans       &trans      &trans  &trans  &trans    &rgb_ug RGB_SAD  &trans           &trans           &trans             &trans           &trans       &kp DELETE
-&trans      &trans       &trans      &trans  &trans  &trans    &rgb_ug RGB_HUD  &kp LEFT         &kp DOWN         &kp UP             &kp RIGHT        &trans       &trans
-&trans      &trans       &sys_reset  &trans  &trans  &trans    &rgb_ug RGB_HUI  &rgb_ug RGB_BRD  &rgb_ug RGB_SPD  &trans             &sys_reset       &trans       &trans
-&kp C_MUTE  &bootloader  &trans      &trans  &trans  &trans    &rgb_ug RGB_EFF  &trans           &rgb_ug RGB_BRI  &rgb_ug RGB_SPI    &rgb_ug RGB_TOG  &bootloader
+&trans      &kp F11      &kp F12     &trans  &trans  &bt BT_CLR    &rgb_ug RGB_SAI  &bt BT_NXT       &out OUT_TOG     &ext_power EP_TOG  &trans           &kp MINUS    &kp EQUAL
+&trans      &trans       &trans      &trans  &trans  &trans        &rgb_ug RGB_SAD  &trans           &trans           &trans             &trans           &trans       &kp DELETE
+&trans      &trans       &trans      &trans  &trans  &trans        &rgb_ug RGB_HUD  &kp LEFT         &kp DOWN         &kp UP             &kp RIGHT        &trans       &trans
+&trans      &trans       &sys_reset  &trans  &trans  &trans        &rgb_ug RGB_HUI  &rgb_ug RGB_BRD  &rgb_ug RGB_SPD  &trans             &sys_reset       &trans       &trans
+&kp C_MUTE  &bootloader  &trans      &trans  &trans  &trans        &rgb_ug RGB_EFF  &trans           &rgb_ug RGB_BRI  &rgb_ug RGB_SPI    &rgb_ug RGB_TOG  &bootloader
             >;
 
             display-name = "Settings";
